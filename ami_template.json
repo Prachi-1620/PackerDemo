@@ -1,7 +1,7 @@
 {
 "variables":{
-"aws_access_key":"AKIAZD6F7RR3LJ42SZMM",
-"aws_secret_key":"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",
+"aws_access_key":"",
+"aws_secret_key":"",
 "region":"ap-south-1",
 	"base_ami_id":"ami-028b3bf1662e6082f"
 },
